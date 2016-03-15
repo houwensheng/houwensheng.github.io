@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Hou Wensheng</title>
- <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
- <link href="http://tom.preston-werner.com/"/>
+ <link href="https://houwensheng.github.io/atom.xml" rel="self"/>
+ <link href="https://houwensheng.github.io"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://tom.preston-werner.com/</id>
+ <id>https://houwensheng.github.io</id>
  <author>
    <name>Hou Wensheng</name>
    <email>houwsh@outlook.com</email>
