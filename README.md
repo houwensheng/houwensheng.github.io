@@ -1,6 +1,6 @@
 ##说明
 
-此博客 fork 自 [Tom Preston-Werner](https://github.com/mojombo/tpw)感谢。
+此博客 fork 自 [Tom Preston-Werner](https://github.com/mojombo/tpw)  感谢。
 
 ##勿忘初心
 
